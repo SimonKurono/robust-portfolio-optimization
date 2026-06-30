@@ -1,0 +1,33 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Bloomberg / proprietary raw data
+data/SPX_CUR_DATA.csv
+data/SPX_RETURN_DATA.csv
+data/WRDS_SPY_DATA_MASTER.csv
+data/GB3GVT_DATA.csv
+data/MOVE_DATA.csv
+data/USGG10Y_DATA.csv
+data/VIX_DATA.csv
+
+# Duplicate / scratch data
+data/F-F_Momentum_Factor_daily 2.csv
+
+# Scratch notebooks
+testing.ipynb
+backtest_test.ipynb
+
+# Large zip archives (CSVs already present)
+data/*.zip
