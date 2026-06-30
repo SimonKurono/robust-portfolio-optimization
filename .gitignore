@@ -31,3 +31,7 @@ backtest_test.ipynb
 
 # Large zip archives (CSVs already present)
 data/*.zip
+
+# Internal tooling
+.superpowers/
+docs/
