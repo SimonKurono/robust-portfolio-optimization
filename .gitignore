@@ -21,6 +21,7 @@ data/GB3GVT_DATA.csv
 data/MOVE_DATA.csv
 data/USGG10Y_DATA.csv
 data/VIX_DATA.csv
+data_wrds/*
 
 # Duplicate / scratch data
 data/F-F_Momentum_Factor_daily 2.csv
